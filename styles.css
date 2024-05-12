@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f4f9; /* Cor de fundo suave */
+}
+
+header {
+    background-color: #d98fd5; /* Roxo claro */
+    color: #9c5f9a;
+    text-align: center;
+    padding: 20px 0;
+    background-image: url('https://img.freepik.com/vetores-gratis/elegante-padrao-sem-emenda-com-lindas-flores-e-folhas-brancas-e-roxas_44538-3628.jpg?w=740&t=st=1715542487~exp=1715543087~hmac=dfbd1129038f8cb05313731fbdfc2f0aa8b7d19b770f21fd08f93729f972e76f'); /* Adicionando flores de fundo */
+    background-repeat: repeat;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f4d9f7; /* Lilás claro */
+}
+
+h1, h2 {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+footer {
+    background-color: #d98fd5; /* Roxo claro */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-image: url('https://image.freepik.com/fotos-gratis/botao-da-flor-de-petala-lilas-escuro-ou-violeta-no-fundo-branco_1433-257.jpg'); /* Adicionando flores de fundo */
+    background-repeat: repeat;
+}
+
+form {
+    margin-top: 10px;
+}
+
+button {
+    background-color: #af69c0; /* Roxo escuro */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #8a2be2; /* Violeta */
+}
+
+
